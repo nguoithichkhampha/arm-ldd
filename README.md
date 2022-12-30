@@ -1,5 +1,6 @@
 # arm-ldd
-a shell script similar with ldd script to check the dependency of arm library
+a shell script similar with ldd script to check the dependency of arm library.
+This script is based on ldd script from https://github.com/crosstool-ng/crosstool-ng
 
 # how to use
 
